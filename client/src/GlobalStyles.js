@@ -7,8 +7,8 @@ export default createGlobalStyle`
     --color-orange: #F79D00;
     --color-selective-yellow: #FDBB01;
     --color-desert-sand: #E3C4A6;
-    --font-heading: 'Permanent Marker', Arial, Helvetica, sans-serif;
-    --font-body: 'Kosugi', Arial, Helvetica, sans-serif;
+    --font-heading: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-body: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --padding-page: 24px;
   }
 
@@ -77,7 +77,6 @@ input {
   input {
     font-size: 24px;
     height: 42px;
-    /* border: 2px solid var(--color-orange); */
     border-radius: 4px;
     padding: 0 12px;
   }
